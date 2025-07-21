@@ -6,22 +6,22 @@ With that messy into out of the way we can get started:
 
 ## To Read: ##
 
-> "Navigating the dark Web: A comprehensive Guide to Darknets, Tools and Intelligence" by sebastian damaye
-(Note on the last one: interesting sounding title but may not finish if it starts getting too 'digital-forenzics'-flavoured, here to learn about tech not peoples views on ethics  [we have 'intro to anarchism', 'capitalism and nothingness', etc for that]... also while I am all for reading things from different perspectives I personally can't stand works that get too cop-y or capitalisty)
-> The Rust programming language by Steve Klabnik, Carol Nichols, and Chris Krycho
-(need to brush back up on my C first though, and perhaps a little x86_64 ASM for masochism and fun)
-> OSDev.org Wiki
-(one day she says wistfully)
+> * "Navigating the dark Web: A comprehensive Guide to Darknets, Tools and Intelligence" by sebastian damaye
+  (Note on the last one: interesting sounding title but may not finish if it starts getting too 'digital-forenzics'-flavoured, here to learn about tech not peoples views on ethics    [we have 'intro to anarchism', 'capitalism and nothingness', etc for that]... also while I am all for reading things from different perspectives I personally can't stand works      that get too cop-y or capitalisty)
+> * The Rust programming language by Steve Klabnik, Carol Nichols, and Chris Krycho
+  (need to brush back up on my C first though, and perhaps a little x86_64 ASM for masochism and fun)
+> * OSDev.org Wiki
+  (one day she says wistfully)
 
 ## Currently Reading: ##
 
-> The Purely Functional Software Deployment Model by Eelco Dolstra (section 1.4 currently) started reading - 14th july 2025
-> Freenet: A distributed Anonymous information storage and retrival system by Clarke et.al (Section 3.5 currently) started reading - 15th july 2025
-> Calculus Early Transindentals
-(Chapter 1.3 currently, this one is slow going since im taking more written notes than usual to attempt to improve handwriting for finals) started reading - 1st july 2025
+> * The Purely Functional Software Deployment Model by Eelco Dolstra (section 1.4 currently) started reading - 14th july 2025
+> * Freenet: A distributed Anonymous information storage and retrival system by Clarke et.al (Section 3.5 currently) started reading - 15th july 2025
+> * Calculus Early Transindentals
+  (Chapter 1.3 currently, this one is slow going since im taking more written notes than usual to attempt to improve handwriting for finals) started reading - 1st july 2025
 
 ## Read: ##
 
-> None of this set, so far
+> * None of this set, so far
 
 Bookwyrm: https://outside.ofa.dog/user/StrangeFoxMeows
