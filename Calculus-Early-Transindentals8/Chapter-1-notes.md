@@ -19,3 +19,5 @@ General sumary:
   - which may then generate real world predictions
   - these predictions often raise more questions begining the cycle again
   - this chapter also reminds of various common functions used in mathematical modeling drawing on the concepts in 1.1 to discuss; linear, polynomial (and their single term subset power functions), triganometric functions (remember to use radians), exponential and logarithmic functions
+## 1.3 ##
+Transformations of functions
